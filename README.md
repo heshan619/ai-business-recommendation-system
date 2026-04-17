@@ -42,7 +42,20 @@ streamlit run app.py
 ## 📊 Sample Output
 - Sales predictions for next 7 days  
 - Performance metrics  
-- AI-based recommendations  
+- AI-based recommendations
+
+## 📸 Screenshots
+
+### 📊 Dashboard
+![Dashboard](dashboard_1.png)
+![Dashboard](dashboard_2.png)
+
+### 📈 Predictions
+![Predictions](predictions_1.png)
+![Predictions](predictions_2.png)
+
+### 💡 Recommendations
+![Recommendations](recommendations.png)
 
 ## 🎯 Purpose
 This system helps businesses make data-driven decisions by predicting future sales trends and suggesting strategic actions.
