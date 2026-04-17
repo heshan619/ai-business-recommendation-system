@@ -26,10 +26,17 @@ utils/
   ├── recommendation.py  
 sample_data.csv  
 requirements.txt  
+
 ## ▶️ How to Run
 
-1. Install dependencies: python -m pip install -r requirements.txt
-2. Run the app: python -m streamlit run app.py
+1. Navigate to the project folder:
+cd ai-business-recommendation-system
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the app:
+streamlit run app.py
 
 
 ## 📊 Sample Output
